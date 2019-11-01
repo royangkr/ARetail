@@ -11,6 +11,6 @@ ARetail incorporates a pre-trained Generative Adverserial Network (GAN) and Augm
 
 The generated 3D model can then be positioned in AR for realistic interior design on mobile phones.
 
-![](AR_demo.gif){:height="400px"}
+<img src="https://raw.githubusercontent.com/royangkr/ARetail/master/GAN_example.gif" height="300">
 
 ARetail can generate 3D models for the billions of online furniture listings and can help consumers view furniture in their own home before buying them.
