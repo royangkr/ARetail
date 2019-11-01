@@ -7,8 +7,9 @@ ARetail will represent Singapore at Asian Pacific ICT Alliance 2019 in Vietnam f
 ## Project Description
 ARetail incorporates a pre-trained Generative Adverserial Network (GAN) and Augmented Reality (AR). The GAN takes a 2D image of a furniture as input, and generates a 3D model of that furniture based on what can be derived from the photo and the computer's understanding of the furniture from training data.
 
+![](GAN-example.gif)
 
 The generated 3D model can then be positioned in AR for realistic interior design on mobile phones.
 
 
-ARetail can generate 
+ARetail can generate 3D models for the billions of online furniture listings and can help consumers view furniture in their own home before buying them.
